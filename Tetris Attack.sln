@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C22107B9-9B11-7948-AAD9-4FFF30AAAD9B}") = "Tetris Attack", "Assembly-CSharp-firstpass.csproj", "{AE4BE9C7-3B5F-D723-7F20-52B516A1694D}"
+EndProject
+Project("{C22107B9-9B11-7948-AAD9-4FFF30AAAD9B}") = "Tetris Attack", "Assembly-CSharp.csproj", "{303B3C15-A753-D9CD-B366-032B51F8267A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4BE9C7-3B5F-D723-7F20-52B516A1694D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4BE9C7-3B5F-D723-7F20-52B516A1694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4BE9C7-3B5F-D723-7F20-52B516A1694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4BE9C7-3B5F-D723-7F20-52B516A1694D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303B3C15-A753-D9CD-B366-032B51F8267A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303B3C15-A753-D9CD-B366-032B51F8267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303B3C15-A753-D9CD-B366-032B51F8267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303B3C15-A753-D9CD-B366-032B51F8267A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
