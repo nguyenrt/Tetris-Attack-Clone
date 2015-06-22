@@ -5,8 +5,8 @@ Controls:
 
 Arrow Keys - Move Cursor
 
-Spacebar - Swap blocks
+Spacebar - Swap Blocks
 
-Z - Spawn new row
+Z - Spawn New Row
 
-Q - Restart game
+Q - Restart Game
